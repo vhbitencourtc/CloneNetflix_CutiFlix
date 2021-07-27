@@ -9,7 +9,7 @@ O projeto foi desenvolvido com as linguagens:
 - ``JavaScript``
 
 Utilitários
-- [FontAwesome](https://fontawesome.com/)
+- [Font Awesome](https://fontawesome.com/)
 - [IconFu](https://www.iconfu.com/main#/icons/5/1//03b8e5-0-0)
 - [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/)
 - [The Movie DataBase](https://www.themoviedb.org/)
